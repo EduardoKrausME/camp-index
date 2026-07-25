@@ -2,14 +2,34 @@ component: block_xp
 source: https://github.com/FMCorz/moodle-block_xp
 maintainers:
 - github: FMCorz
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-11'
 security-contact: https://github.com/FMCorz/moodle-block_xp/security
 labels:
-  - freemium
-  - commercial-support-available
-releases: []
+- freemium
+- commercial-support-available
+releases:
+- version: 3.15.2
+  tag: v3.15.2
+  commit: f1a4f49d4cca312c66be86047f87966a96f75258
+  moodle-version: 2023100803
+  supported-moodle:
+  - '3.4'
+  - '3.5'
+  - '3.6'
+  - '3.7'
+  - '3.8'
+  - '3.9'
+  - '3.10'
+  - '3.11'
+  - '4.0'
+  - '4.1'
+  - '4.2'
+  - '4.3'
+  zip-sha256: 9e53de4f96331b9f4c1329f68b722289e1978d73bf2630299e20af189af42105
+  published: '2026-07-25T05:45:23Z'
+  released: '2023-11-27T10:18:15Z'
 license: GPL-3.0
 summary: A gamification plugin for Moodle allowing learners to gain experience points
   and level up.
