@@ -2,14 +2,64 @@ component: block_xp
 source: https://github.com/FMCorz/moodle-block_xp
 maintainers:
 - github: FMCorz
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-11'
 security-contact: https://github.com/FMCorz/moodle-block_xp/security
 labels:
-  - freemium
-  - commercial-support-available
-releases: []
+- freemium
+- commercial-support-available
+releases:
+- version: '20.0'
+  tag: v20.0
+  commit: 65541fdc9c77511a906353f6660e195eeaa51893
+  moodle-version: 2026042001
+  supported-moodle:
+  - '4.1'
+  - '4.2'
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: 9be4ec27f399dcf30e895cc8a2dfcf04ba6dbe4c97cc6c044d46cef8a0541339
+  published: '2026-07-25T05:43:47Z'
+  released: '2026-04-20T16:37:12Z'
+- version: 3.16.0
+  tag: v3.16.0
+  commit: 0f771323a6060cba1022eb69c074dbcc86e3be48
+  moodle-version: 2024042104
+  supported-moodle:
+  - '3.11'
+  - '4.0'
+  - '4.1'
+  - '4.2'
+  - '4.3'
+  - '4.4'
+  zip-sha256: dbaed39baaf022f1f16a131750e50e6bbd7f9869634277c6ab0c7206b8816ede
+  published: '2026-07-25T05:44:40Z'
+  released: '2024-04-22T14:28:08Z'
+- version: 3.15.2
+  tag: v3.15.2
+  commit: f1a4f49d4cca312c66be86047f87966a96f75258
+  moodle-version: 2023100803
+  supported-moodle:
+  - '3.4'
+  - '3.5'
+  - '3.6'
+  - '3.7'
+  - '3.8'
+  - '3.9'
+  - '3.10'
+  - '3.11'
+  - '4.0'
+  - '4.1'
+  - '4.2'
+  - '4.3'
+  zip-sha256: 9e53de4f96331b9f4c1329f68b722289e1978d73bf2630299e20af189af42105
+  published: '2026-07-25T05:45:23Z'
+  released: '2023-11-27T10:18:15Z'
 license: GPL-3.0
 summary: A gamification plugin for Moodle allowing learners to gain experience points
   and level up.
