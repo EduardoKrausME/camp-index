@@ -10,6 +10,22 @@ labels:
 - freemium
 - commercial-support-available
 releases:
+- version: '20.0'
+  tag: v20.0
+  commit: 65541fdc9c77511a906353f6660e195eeaa51893
+  moodle-version: 2026042001
+  supported-moodle:
+  - '4.1'
+  - '4.2'
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: 9be4ec27f399dcf30e895cc8a2dfcf04ba6dbe4c97cc6c044d46cef8a0541339
+  published: '2026-07-25T05:43:47Z'
+  released: '2026-04-20T16:37:12Z'
 - version: 3.16.0
   tag: v3.16.0
   commit: 0f771323a6060cba1022eb69c074dbcc86e3be48
