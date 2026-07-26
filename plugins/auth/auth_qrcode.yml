@@ -1,5 +1,5 @@
 component: auth_qrcode
-source: https://github.com/eberhardt/moodle-auth_qrcode
+source: https://github.com/innocampus/moodle-auth_qrcode
 maintainers:
 - github: eberhardt
 tier: 0
@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Authenticate in Moodle via scanning a QR Code on an external device.
 metrics:
-  updated: '2026-07-07T11:37:15Z'
+  updated: '2026-07-24T06:39:03Z'
   stars: 2
-  forks: 0
-  open-issues: 5
+  forks: 1
+  open-issues: 4
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-07-26'
