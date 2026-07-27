@@ -1,0 +1,17 @@
+component: local_oerclient
+source: https://github.com/adamjenkins/moodle-local_oerclient
+maintainers:
+- github: adamjenkins
+tier: 0
+status: active
+discovered: '2026-07-27'
+releases: []
+license: GPL-3.0
+summary: A client plugin to enable communication with an OER Exchange site
+metrics:
+  updated: '2026-07-27T03:32:48Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-07-27'

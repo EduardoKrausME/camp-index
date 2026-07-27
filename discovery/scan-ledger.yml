@@ -15230,6 +15230,31 @@ repos:
     detail: component atto_cssfontsize already registered (first-come, RFC §8)
     first-seen: '2026-07-11'
     last-checked: '2026-07-23'
+  adamjenkins/moodle-block_oerclient:
+    outcome: written
+    detail: listed as block_oerclient
+    first-seen: '2026-07-27'
+    last-checked: '2026-07-27'
+  adamjenkins/moodle-block_oerexchangebrowse:
+    outcome: written
+    detail: listed as block_oerexchangebrowse
+    first-seen: '2026-07-27'
+    last-checked: '2026-07-27'
+  adamjenkins/moodle-block_oerexchangemodqueue:
+    outcome: written
+    detail: listed as block_oerexchangemodqueue
+    first-seen: '2026-07-27'
+    last-checked: '2026-07-27'
+  adamjenkins/moodle-block_oerexchangequicklinks:
+    outcome: written
+    detail: listed as block_oerexchangequicklinks
+    first-seen: '2026-07-27'
+    last-checked: '2026-07-27'
+  adamjenkins/moodle-block_oerexchangeshares:
+    outcome: written
+    detail: listed as block_oerexchangeshares
+    first-seen: '2026-07-27'
+    last-checked: '2026-07-27'
   adamjenkins/moodle-block_worldclock:
     outcome: written
     detail: listed as block_worldclock
@@ -15266,6 +15291,16 @@ repos:
       §8)
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
+  adamjenkins/moodle-local_oerclient:
+    outcome: written
+    detail: listed as local_oerclient
+    first-seen: '2026-07-27'
+    last-checked: '2026-07-27'
+  adamjenkins/moodle-local_oerexchange:
+    outcome: written
+    detail: listed as local_oerexchange
+    first-seen: '2026-07-27'
+    last-checked: '2026-07-27'
   adamjenkins/moodle-local_textless_forum:
     outcome: exists
     detail: component local_textless_forum already registered (first-come, RFC §8)
