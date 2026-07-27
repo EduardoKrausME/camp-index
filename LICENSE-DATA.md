@@ -2,7 +2,7 @@
 
 The camp registry's data is open. Three kinds of content, three answers:
 
-## The index database — ODbL 1.0
+## The index database: ODbL 1.0
 
 The index database (everything under `plugins/`, `discovery/`, and the
 generated repository metadata such as `packages.json`) is made available
@@ -22,7 +22,7 @@ record) are additionally dedicated to the public domain under
 matching the contribution term below: single records are free to
 lift; the ODbL terms attach to the database as a collection.
 
-## Advisories — CC BY 4.0
+## Advisories: CC BY 4.0
 
 Security advisories (everything under `advisories/`) are licensed
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Warnings
@@ -38,7 +38,7 @@ They are triage aids, not guarantees; verify against the referenced
 versions before acting. This statement travels with the advisories
 regardless of the copyright license.
 
-## Author content — the plugin's own license
+## Author content: the plugin's own license
 
 Listing content that authors provide from their own repositories
 (`.camp/listing.yml` names, descriptions, screenshots) and plugin
