@@ -50823,15 +50823,19 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   ngandrass/moodle-archivingmod_quiz:
-    outcome: written
-    detail: listed as archivingmod_quiz
+    outcome: opted-out
+    detail: listing removed at maintainer request (camp-index#130, subplugin bundled
+      with local_archiving)
+    component: archivingmod_quiz
     first-seen: '2026-07-11'
-    last-checked: '2026-07-11'
+    last-checked: '2026-07-27'
   ngandrass/moodle-archivingstore_localdir:
-    outcome: written
-    detail: listed as archivingstore_localdir
+    outcome: opted-out
+    detail: listing removed at maintainer request (camp-index#131, subplugin bundled
+      with local_archiving)
+    component: archivingstore_localdir
     first-seen: '2026-07-11'
-    last-checked: '2026-07-11'
+    last-checked: '2026-07-27'
   ngandrass/moodle-block_mathsyntaxhelp:
     outcome: written
     detail: listed as block_mathsyntaxhelp
