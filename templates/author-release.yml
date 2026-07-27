@@ -44,6 +44,16 @@ jobs:
   publish:
     runs-on: ubuntu-24.04
     steps:
+      # Releases are built at immutable tags only. workflow_dispatch left
+      # on the default branch publishes a record that verifies once and
+      # then fails forever (camp-tools#15); fail here instead.
+      - name: Require a tag ref
+        run: |
+          if [ "${{ github.ref_type }}" != "tag" ]; then
+            echo "::error::This workflow must run at a tag. From workflow_dispatch, pick the tag in the ref dropdown (or: gh workflow run camp-release.yml --ref v1.2.3). Current ref: ${{ github.ref_name }} (${{ github.ref_type }})"
+            exit 1
+          fi
+
       - name: Check out plugin at the tag
         uses: actions/checkout@v7
         with:
