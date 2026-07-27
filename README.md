@@ -18,6 +18,10 @@ Every pull request is verified by CI (RFC §4.2): schema validation,
 append-only ledger enforcement, deterministic rebuild from the tagged
 source, hash verification, static checks, and malware scanning.
 
-Status: **pre-launch**. Discovered listings (Tier 0) are search results,
-not distributions — maintainers may claim them, or request removal, no
-questions asked.
+Discovered listings (Tier 0) are search results, not distributions —
+maintainers may claim them, or request removal, no questions asked.
+
+Data licensing: the index database is [ODbL](LICENSE-DATA.md),
+advisories are CC BY 4.0, and contributions are accepted under CC0
+([CONTRIBUTING.md](CONTRIBUTING.md)). Plugin code and author content
+stay under each plugin's own license.
