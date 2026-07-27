@@ -13,5 +13,8 @@ metrics:
   forks: 0
   open-issues: 2
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v0.0.4
+    date: '2024-07-15T16:25:58Z'
+  checked: '2026-07-27'
 summary: Seamless authentication in biblioclub.ru from Moodle Learning Platform

@@ -13,9 +13,12 @@ summary: This block is a Moodle custom reports builder. You can create custom re
 labels:
 - fully-free
 metrics:
-  updated: '2021-10-29T14:55:37.274Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
+  updated: '2026-05-04T11:52:25Z'
+  stars: 81
+  forks: 174
+  open-issues: 97
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 5.2.0
+    date: '2026-05-04T11:52:26Z'
+  checked: '2026-07-27'

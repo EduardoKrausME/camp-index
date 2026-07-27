@@ -8,11 +8,14 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-05-06T07:44:22Z'
+  updated: '2026-07-20T04:35:06Z'
   stars: 3
   forks: 1
-  open-issues: 2
+  open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v0.3
+    date: '2026-07-20T04:35:06Z'
+  checked: '2026-07-27'
 summary: Provides a restriction for activities or sections by user. In contrast to
   doing

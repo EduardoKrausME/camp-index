@@ -7,7 +7,7 @@ status: active
 discovered: '2026-07-11'
 security-contact: https://github.com/branchup/moodle-block_credits/security
 labels:
-  - fully-free
+- fully-free
 releases: []
 license: GPL-3.0
 summary: Moodle plugin to manage user credits.
@@ -17,4 +17,4 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-07-27'

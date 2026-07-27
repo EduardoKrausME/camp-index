@@ -13,5 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v0.1.4
+    date: '2026-02-23T15:16:03Z'
+  checked: '2026-07-27'
 summary: Display an activity in a popup modal.

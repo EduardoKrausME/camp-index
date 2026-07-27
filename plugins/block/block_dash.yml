@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: The interface and report builder for moodle
 metrics:
-  updated: '2026-07-09T14:27:46Z'
+  updated: '2026-07-24T10:43:00Z'
   stars: 6
   forks: 4
-  open-issues: 7
+  open-issues: 10
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v2.7-r1
+    date: '2026-06-11T15:05:44Z'
+  checked: '2026-07-27'

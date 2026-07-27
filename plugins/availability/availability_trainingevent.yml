@@ -13,6 +13,6 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-07-27'
 summary: The IOMAD training event availability plugin restricts access to course content
   unless a user has signed up for a training event within a course.

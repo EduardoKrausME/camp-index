@@ -13,5 +13,8 @@ metrics:
   forks: 0
   open-issues: 5
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.0.1
+    date: '2023-04-28T09:07:25Z'
+  checked: '2026-07-27'
 summary: Block Attendance Table

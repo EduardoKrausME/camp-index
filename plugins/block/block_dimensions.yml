@@ -9,9 +9,12 @@ releases: []
 license: GPL-3.0
 summary: Your plans and competencies, in a new dimension.
 metrics:
-  updated: '2026-07-11T14:59:09Z'
+  updated: '2026-07-13T20:31:43Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v2.0
+    date: '2026-07-13T20:45:27Z'
+  checked: '2026-07-27'

@@ -13,6 +13,6 @@ metrics:
   forks: 1
   open-issues: 2
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-07-27'
 summary: Will embbed CompetVetSuivi (see https://github.com/call-learning/moodle-localcompetvetsuivi)
   graph on the dashboard.
