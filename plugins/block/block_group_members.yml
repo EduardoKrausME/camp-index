@@ -13,6 +13,9 @@ metrics:
   forks: 1
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v4.1.02
+    date: '2023-04-28T13:19:32Z'
+  checked: '2026-07-28'
 summary: Display the list of the course group members in a course. This leads to the
   participant

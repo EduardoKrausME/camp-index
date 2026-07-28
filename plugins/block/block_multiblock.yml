@@ -10,9 +10,9 @@ summary: Moodle plugin which allows you to embed multiple blocks within a single
   region using different formats including tabs and accordions
 license: GPL-3.0
 metrics:
-  updated: '2026-07-10T14:53:26Z'
+  updated: '2026-07-13T09:01:52Z'
   stars: 14
   forks: 12
-  open-issues: 20
+  open-issues: 18
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-07-28'

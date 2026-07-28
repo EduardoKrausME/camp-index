@@ -13,5 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: '2023091100'
+    date: '2023-09-12T03:50:45Z'
+  checked: '2026-07-28'
 summary: A block used to add a header to courses

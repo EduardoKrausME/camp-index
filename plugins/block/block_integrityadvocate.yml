@@ -13,7 +13,10 @@ metrics:
   forks: 0
   open-issues: 4
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: '2025091600'
+    date: '2025-09-17T00:17:46Z'
+  checked: '2026-07-28'
 summary: Moodle proctoring and identity verification brought to you by Integrity Advocate.
   The Integrity Advocate proctoring plugin for Moodle installs in minutes and saves
   you hours of support emails. Using our proprietary hybrid AI and human powered participation

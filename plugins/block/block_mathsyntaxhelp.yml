@@ -7,17 +7,22 @@ status: active
 discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
-summary: A block that displays a configurable list of common math input syntax examples alongside their rendered MathJax equivalents. This block serves as a quick reference guide for users when entering mathematical expressions in Moodle, especially in conjunction with STACK.
+summary: A block that displays a configurable list of common math input syntax examples
+  alongside their rendered MathJax equivalents. This block serves as a quick reference
+  guide for users when entering mathematical expressions in Moodle, especially in
+  conjunction with STACK.
 metrics:
-  updated: '2026-04-21T07:14:54Z'
-  stars: 2
+  updated: '2026-07-22T15:12:31Z'
+  stars: 3
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.2.0
+    date: '2026-04-01T14:36:40Z'
+  checked: '2026-07-28'
 security-contact: https://github.com/ngandrass/moodle-block_mathsyntaxhelp/security
 labels:
 - fully-free
 - donation-supported
 - commercial-support-available
-

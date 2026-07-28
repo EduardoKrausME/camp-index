@@ -13,6 +13,9 @@ metrics:
   forks: 2
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v4.1.02
+    date: '2023-03-03T10:45:23Z'
+  checked: '2026-07-28'
 summary: Block derived from the myoverview block that will just display all courses
   a user
