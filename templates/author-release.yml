@@ -127,12 +127,18 @@ jobs:
           }).encode()
           req = urllib.request.Request(
               os.environ["CAMP_PUBLISH_URL"], data=body,
-              headers={"Content-Type": "application/json"})
+              headers={"Content-Type": "application/json",
+                       "User-Agent": f"camp-release ({component})"})
           try:
               out = json.load(urllib.request.urlopen(req))
           except urllib.error.HTTPError as e:
-              out = json.load(e)
-              print(f"::error::camp publish refused ({out.get('code')}): {out.get('message')}")
+              raw = e.read().decode(errors="replace")
+              try:
+                  out = json.loads(raw)
+                  msg = f"({out.get('code')}): {out.get('message')}"
+              except ValueError:
+                  msg = f"HTTP {e.code}: {raw[:200]}"
+              print(f"::error::camp publish refused {msg}")
               sys.exit(1)
           print("Release PR:", out["pr"])
           summary = os.environ.get("GITHUB_STEP_SUMMARY")
