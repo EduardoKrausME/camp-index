@@ -1,5 +1,6 @@
 component: block_kamaleon
 source: https://github.com/bambuco/moodle-block_kamaleon
+source-repo-id: 745345964
 maintainers:
 - github: bambuco
 - github: davidherney

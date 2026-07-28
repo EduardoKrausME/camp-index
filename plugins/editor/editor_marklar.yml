@@ -1,5 +1,6 @@
 component: editor_marklar
 source: https://github.com/mudrd8mz/moodle-editor_marklar
+source-repo-id: 52563408
 maintainers:
 - github: mudrd8mz
 tier: 2

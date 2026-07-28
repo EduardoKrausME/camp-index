@@ -1,5 +1,6 @@
 component: block_oerexchangebrowse
 source: https://github.com/adamjenkins/moodle-block_oerexchangebrowse
+source-repo-id: 1304789495
 maintainers:
 - github: adamjenkins
 tier: 1

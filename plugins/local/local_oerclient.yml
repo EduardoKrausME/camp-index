@@ -1,5 +1,6 @@
 component: local_oerclient
 source: https://github.com/adamjenkins/moodle-local_oerclient
+source-repo-id: 1304615529
 maintainers:
 - github: adamjenkins
 tier: 1

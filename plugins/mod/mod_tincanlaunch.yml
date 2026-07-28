@@ -1,5 +1,6 @@
 component: mod_tincanlaunch
 source: https://github.com/davidpesce/moodle-mod_tincanlaunch
+source-repo-id: 11703390
 maintainers:
 - github: davidpesce
 tier: 1

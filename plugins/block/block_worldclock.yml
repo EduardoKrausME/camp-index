@@ -1,5 +1,6 @@
 component: block_worldclock
 source: https://github.com/adamjenkins/moodle-block_worldclock
+source-repo-id: 1277715560
 maintainers:
 - github: adamjenkins
 tier: 1

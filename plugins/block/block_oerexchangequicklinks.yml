@@ -1,5 +1,6 @@
 component: block_oerexchangequicklinks
 source: https://github.com/adamjenkins/moodle-block_oerexchangequicklinks
+source-repo-id: 1304789700
 maintainers:
 - github: adamjenkins
 tier: 1

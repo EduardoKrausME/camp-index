@@ -1,5 +1,6 @@
 component: block_oerclient
 source: https://github.com/adamjenkins/moodle-block_oerclient
+source-repo-id: 1304785881
 maintainers:
 - github: adamjenkins
 tier: 1

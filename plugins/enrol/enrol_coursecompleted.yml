@@ -1,5 +1,6 @@
 component: enrol_coursecompleted
 source: https://github.com/ewallah/moodle-enrol_coursecompleted
+source-repo-id: 113969651
 maintainers:
 - github: ewallah
 tier: 1

@@ -1,5 +1,6 @@
 component: block_openbook
 source: https://github.com/lucaboesch/moodle-block_openbook
+source-repo-id: 1103356074
 maintainers:
 - name: Luca Bösch
   github: lucaboesch

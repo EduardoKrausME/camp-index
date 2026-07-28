@@ -1,5 +1,6 @@
 component: block_xp
 source: https://github.com/FMCorz/moodle-block_xp
+source-repo-id: 17739056
 maintainers:
 - github: FMCorz
 tier: 2

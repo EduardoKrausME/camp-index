@@ -1,5 +1,6 @@
 component: block_oerexchangeshares
 source: https://github.com/adamjenkins/moodle-block_oerexchangeshares
+source-repo-id: 1304795555
 maintainers:
 - github: adamjenkins
 tier: 1

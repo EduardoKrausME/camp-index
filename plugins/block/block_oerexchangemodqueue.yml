@@ -1,5 +1,6 @@
 component: block_oerexchangemodqueue
 source: https://github.com/adamjenkins/moodle-block_oerexchangemodqueue
+source-repo-id: 1304788732
 maintainers:
 - github: adamjenkins
 tier: 1

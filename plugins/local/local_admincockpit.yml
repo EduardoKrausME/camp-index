@@ -1,5 +1,6 @@
 component: local_admincockpit
 source: https://github.com/tkorner/moodle-local_admincockpit
+source-repo-id: 1296919201
 maintainers:
 - github: tkorner
 security-contact: https://github.com/tkorner/moodle-local_admincockpit/security/advisories/new

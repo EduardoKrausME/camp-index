@@ -1,5 +1,6 @@
 component: local_oerexchange
 source: https://github.com/adamjenkins/moodle-local_oerexchange
+source-repo-id: 1304614077
 maintainers:
 - github: adamjenkins
 tier: 1
