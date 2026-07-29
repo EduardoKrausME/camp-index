@@ -64,8 +64,22 @@ jobs:
                        ("MOODLE_502_STABLE", "5.2", "8.3")]
           base = "origin/" + os.environ["BASE_REF"]
           checks = []
+          bad = []
           for path in json.loads(sys.argv[1]):
-              head = yaml.safe_load(open(path))
+              # A malformed changed file must fail as one readable line, not
+              # a traceback (#156); keep checking the rest before exiting.
+              try:
+                  head = yaml.safe_load(open(path))
+              except yaml.YAMLError as e:
+                  mark = getattr(e, "problem_mark", None)
+                  where = f" (line {mark.line + 1}, column {mark.column + 1})" if mark else ""
+                  problem = getattr(e, "problem", None) or str(e).split("\n")[0]
+                  bad.append(f"{path} is not valid YAML: {problem}{where}. "
+                             "Quote the value or check indentation.")
+                  continue
+              if not isinstance(head, dict):
+                  bad.append(f"{path} is not a YAML mapping; an index entry must be one.")
+                  continue
               shown = subprocess.run(["git", "show", f"{base}:{path}"],
                                      capture_output=True, text=True)
               prior = yaml.safe_load(shown.stdout) if shown.returncode == 0 else None
@@ -82,6 +96,10 @@ jobs:
                                  "version": str(r["version"]), "commit": r["commit"],
                                  "moodle-branch": code, "php": php}
                                 for code, php in legs)
+          if bad:
+              for msg in bad:
+                  print(f"::error::{msg}")
+              sys.exit(1)
           with open(os.environ["GITHUB_OUTPUT"], "a") as out:
               out.write("checks=" + json.dumps(checks) + "\n")
           print("Release check legs:", json.dumps(checks, indent=2))
