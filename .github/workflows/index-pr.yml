@@ -159,7 +159,11 @@ jobs:
           camp ledger-check /tmp/base-entry.yml "${{ matrix.entry }}"
 
       - name: Verify releases against source
-        run: camp verify "${{ matrix.entry }}"
+        run: |
+          if ! camp verify "${{ matrix.entry }}"; then
+            echo "::notice::If a previously published release fails verification, it can be withdrawn by advisory. File a 'Release withdrawal or record correction' issue: https://github.com/camp-registry/camp-index/issues/new?template=release-correction.yml"
+            exit 1
+          fi
 
       - name: Install ClamAV
         run: |
