@@ -15,6 +15,8 @@ body:
         channels. The registry verifies the request against your
         repository and the release ledger, publishes the advisory, and
         links it here. The archived artifact is preserved either way.
+        A withdrawn version name is retired; publish the superseding
+        release under a new version.
   - type: input
     id: component
     attributes:
