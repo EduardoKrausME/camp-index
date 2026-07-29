@@ -23,12 +23,15 @@ releases:
   listing-sha256: ad8b4e69ba63757b54236391dac5ea3c45c1a774883db7344e8a16d16b50ca09
 license: GPL-3.0
 metrics:
-  updated: '2026-05-26T16:39:59Z'
+  updated: '2026-07-25T11:19:51Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v5.2-r3
+    date: '2026-04-28T07:15:30Z'
+  checked: '2026-07-29'
 summary: The Openbook Resource Block provides links to files provided by a Openbook
   Resource Folder (mod_openbook).
 security-contact: https://github.com/lucaboesch/moodle-block_openbook/security/advisories/new
