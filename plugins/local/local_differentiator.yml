@@ -4,10 +4,31 @@ source-repo-id: 153530863
 maintainers:
 - name: Luca Bösch
   github: lucaboesch
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-10'
-releases: []
+releases:
+- version: v5.2-r4
+  tag: v5.2-r4
+  commit: 0a4a3a7623d585874cc7f5614609ef98df35515e
+  moodle-version: 2026073000
+  supported-moodle:
+  - '3.9'
+  - '3.10'
+  - '3.11'
+  - '4.0'
+  - '4.1'
+  - '4.2'
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: 977e08f0d7c418c2a6e5fd1a596fe4f71aee071b0e8523b5f4dea65590886ba0
+  listing-sha256: 62613e068474f0e83671afa28b7eb054929198797f69707d0eaa4e29d7806085
+  published: '2026-07-30T17:18:23Z'
+  released: '2026-07-30T17:14:28Z'
 license: GPL-3.0
 metrics:
   updated: '2026-07-07T13:34:38Z'
