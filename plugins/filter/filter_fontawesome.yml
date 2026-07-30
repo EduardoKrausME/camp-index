@@ -2,7 +2,7 @@ component: filter_fontawesome
 source: https://github.com/ffhs/moodle-filter_fontawesome
 maintainers:
 - github: ffhs
-tier: 0
+tier: 1
 status: active
 discovered: '2026-07-11'
 releases: []
@@ -18,3 +18,6 @@ metrics:
     tag: v5.2-r1
     date: '2026-06-17T09:38:55Z'
   checked: '2026-07-29'
+security-contact: https://github.com/ffhs/moodle-filter_fontawesome/security
+labels:
+- fully-free
