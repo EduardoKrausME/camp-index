@@ -4,10 +4,31 @@ source-repo-id: 137848676
 maintainers:
 - name: Bern University of Applied Sciences
   github: bfh
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-10'
-releases: []
+releases:
+- version: v5.2-r1
+  tag: v5.2-r2
+  commit: 9ff3d06cd9ab1db4932bd6c25d556938162f387a
+  moodle-version: 2026033000
+  supported-moodle:
+  - '3.9'
+  - '3.10'
+  - '3.11'
+  - '4.0'
+  - '4.1'
+  - '4.2'
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: 6194d238ecf5f03dc128a4fe210b907f94cf62a3e921dfed4851ab621a1659a9
+  listing-sha256: d1ac61ffcc79197bd3cdb3580cb418549db519327bc30cea6b0573eb8a57debc
+  published: '2026-07-30T17:28:47Z'
+  released: '2026-07-30T17:04:52Z'
 license: GPL-3.0
 metrics:
   updated: '2026-04-18T13:52:03Z'
