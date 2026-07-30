@@ -2,7 +2,7 @@ component: block_course_checker_info
 source: https://github.com/ffhs/moodle-block_course_checker_info
 maintainers:
 - github: ffhs
-tier: 0
+tier: 1
 status: active
 discovered: '2026-07-29'
 releases: []
@@ -17,3 +17,6 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-07-29'
+security-contact: https://github.com/ffhs/moodle-block_course_checker_info/security
+labels:
+- fully-free
