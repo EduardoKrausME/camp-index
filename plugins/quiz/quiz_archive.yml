@@ -2,7 +2,8 @@ component: quiz_archive
 source: https://github.com/bfh/moodle-quiz_archive
 source-repo-id: 137848676
 maintainers:
-- github: bfh
+- name: Bern University of Applied Sciences
+  github: bfh
 tier: 1
 status: active
 discovered: '2026-07-10'
