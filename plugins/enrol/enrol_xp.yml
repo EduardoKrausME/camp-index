@@ -36,3 +36,5 @@ metrics:
   open-issues: 1
   archived: false
   checked: '2026-07-31'
+dependencies:
+  block_xp: 2017091000

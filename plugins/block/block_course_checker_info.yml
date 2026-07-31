@@ -20,3 +20,5 @@ metrics:
 security-contact: https://github.com/ffhs/moodle-block_course_checker_info/security
 labels:
 - fully-free
+dependencies:
+  local_course_checker: 2025062600

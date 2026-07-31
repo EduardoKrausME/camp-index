@@ -45,9 +45,10 @@ metrics:
     tag: v5.2-r3
     date: '2026-04-28T07:15:30Z'
   checked: '2026-07-29'
-summary: >-
-  The Openbook Resource Block provides links to files provided by a Openbook
+summary: The Openbook Resource Block provides links to files provided by a Openbook
   Resource Folder (mod_openbook).
 security-contact: https://github.com/lucaboesch/moodle-block_openbook/security/advisories/new
 labels:
 - fully-free
+dependencies:
+  mod_openbook: 2026040100

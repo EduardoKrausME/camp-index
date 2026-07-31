@@ -36,3 +36,5 @@ metrics:
   open-issues: 0
   archived: false
   checked: '2026-07-27'
+dependencies:
+  block_gearup: 2025020700

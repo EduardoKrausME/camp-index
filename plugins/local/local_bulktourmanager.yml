@@ -19,3 +19,5 @@ metrics:
 security-contact: https://github.com/adamjenkins/moodle-local_bulktourmanager/security
 labels:
 - fully-free
+dependencies:
+  tool_usertours: any

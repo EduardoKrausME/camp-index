@@ -18,3 +18,5 @@ metrics:
   open-issues: 0
   archived: true
   checked: '2026-07-23'
+dependencies:
+  theme_bootstrapbase: 2013110500

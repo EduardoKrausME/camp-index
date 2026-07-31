@@ -20,3 +20,5 @@ summary: Conference Check-in — a Moodle activity for issuing and selling confe
 security-contact: https://github.com/adamjenkins/moodle-mod_confcheckin/security
 labels:
 - fully-free
+dependencies:
+  mod_confprogram: any

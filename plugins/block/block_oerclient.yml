@@ -30,3 +30,5 @@ metrics:
 security-contact: https://github.com/adamjenkins/moodle-block_oerclient/security
 labels:
 - fully-free
+dependencies:
+  local_oerclient: any

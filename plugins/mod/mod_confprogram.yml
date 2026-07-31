@@ -21,3 +21,5 @@ summary: Conference Program (the vetting plugin) — a Moodle activity that take
 security-contact: https://github.com/adamjenkins/moodle-mod_confprogram/security
 labels:
 - fully-free
+dependencies:
+  mod_confsubmissions: any

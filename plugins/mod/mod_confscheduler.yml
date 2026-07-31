@@ -21,3 +21,6 @@ summary: Conference Scheduler — a Moodle activity that turns the accepted subm
 security-contact: https://github.com/adamjenkins/moodle-mod_confscheduler/security
 labels:
 - fully-free
+dependencies:
+  mod_confprogram: any
+  mod_confsubmissions: any
