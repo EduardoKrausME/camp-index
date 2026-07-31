@@ -13,5 +13,8 @@ metrics:
   forks: 0
   open-issues: 13
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.0.8
+    date: '2025-05-21T10:27:30Z'
+  checked: '2026-07-31'
 summary: UPayments Official Website

@@ -11,9 +11,12 @@ summary: FilterCodes filter for Moodle enables content creators to easily custom
   support, contact us at https://www.tngconsulting.ca/contact
 license: GPL-3.0
 metrics:
-  updated: '2026-07-07T21:05:06Z'
+  updated: '2026-07-13T17:58:42Z'
   stars: 36
   forks: 52
   open-issues: 70
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v3.0.1
+    date: '2026-07-14T18:00:14Z'
+  checked: '2026-07-31'

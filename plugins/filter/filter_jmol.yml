@@ -14,7 +14,7 @@ summary: Jmol/JSmol filter for embedding interactive 3D chemical structures in t
 metrics:
   updated: '2022-12-23T11:08:51Z'
   stars: 8
-  forks: 21
+  forks: 22
   open-issues: 16
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-07-31'

@@ -13,5 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.0
+    date: '2020-09-12T10:41:53Z'
+  checked: '2026-07-31'
 summary: 1. پلاگین را از لینک دانلود دریافت نمایید.

@@ -13,6 +13,6 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-07-31'
 summary: This plugin adds a Moodle MFA factor that sends one-time pass codes through
   administrator-defined secure messenger options.

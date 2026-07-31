@@ -14,4 +14,7 @@ metrics:
   forks: 2
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: moodle-filter_cloudfront_signurl-0.1
+    date: '2015-10-20T12:23:06Z'
+  checked: '2026-07-31'
