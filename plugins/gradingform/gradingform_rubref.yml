@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 metrics:
   updated: '2025-07-07T10:00:28Z'
-  stars: 0
+  stars: 1
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-01'
 summary: Rubref or “Rubric refined” is a fork of the Moodle core Rubric advanced Grading

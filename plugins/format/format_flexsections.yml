@@ -38,11 +38,14 @@ license: GPL-3.0
 labels:
 - fully-free
 metrics:
-  updated: '2026-04-17T19:28:06Z'
+  updated: '2026-07-26T22:41:17Z'
   stars: 25
   forks: 34
-  open-issues: 21
+  open-issues: 19
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v4.0.4
+    date: '2023-07-02T20:42:34Z'
+  checked: '2026-08-01'
 summary: Organises course content in any number of sections that can be nested. Each
   section can be displayed on the same page or on a separate page

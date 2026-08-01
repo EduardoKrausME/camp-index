@@ -13,5 +13,8 @@ metrics:
   forks: 11
   open-issues: 65
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.1
+    date: '2022-10-06T16:20:40Z'
+  checked: '2026-08-01'
 summary: This plugin allows translation of user-generated content in Moodle.

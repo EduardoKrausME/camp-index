@@ -14,10 +14,13 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2022-09-12T05:02:40Z'
-  stars: 0
-  forks: 0
-  open-issues: 0
+  updated: '2025-09-15T12:43:51Z'
+  stars: 22
+  forks: 58
+  open-issues: 22
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: V500.1.0
+    date: '2025-09-15T12:41:43Z'
+  checked: '2026-08-01'
 summary: Grid course format

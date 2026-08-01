@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Moodle filter to display STL files using Three.js
 metrics:
-  updated: '2025-11-27T09:48:53Z'
+  updated: '2026-07-27T10:17:40Z'
   stars: 0
   forks: 1
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-01'

@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Moodle filter which creates tabs in textfields
 metrics:
-  updated: '2026-06-02T10:12:42Z'
+  updated: '2026-07-15T22:09:13Z'
   stars: 8
   forks: 7
-  open-issues: 0
+  open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-01'

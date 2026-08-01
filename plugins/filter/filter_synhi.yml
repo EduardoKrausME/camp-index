@@ -20,4 +20,7 @@ metrics:
   forks: 4
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: V500.1.2
+    date: '2026-04-24T13:04:47Z'
+  checked: '2026-08-01'

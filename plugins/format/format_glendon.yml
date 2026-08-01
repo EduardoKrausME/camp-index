@@ -13,8 +13,10 @@ metrics:
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-01'
 summary: Because this plugin requires a theme based on boost and will not work with
   themes based on bootstrapbase, and that Moodle 3.7 will not have support for themes
   based on bootstrapbase, I will only maintain a version of this plugin for Moodle
   3.7+ moving forward. This also means that I have deleted the
+dependencies:
+  atto_gftabs: any

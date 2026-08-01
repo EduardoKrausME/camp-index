@@ -13,6 +13,10 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-01'
 summary: The Mawang course format is designed by Madison Wang en implemented by Bas
   Brands. It features a tile based layout and is intended to
+dependencies:
+  theme_mawang: 2025061800
+  filter_teacherprofile: 2025061800
+  local_modcustomfields: 2024070300

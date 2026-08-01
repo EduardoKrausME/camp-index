@@ -9,9 +9,9 @@ releases: []
 license: GPL-3.0
 summary: Ranged rubrics for Moodle
 metrics:
-  updated: '2025-02-10T02:53:53Z'
+  updated: '2026-07-29T04:14:43Z'
   stars: 2
-  forks: 3
-  open-issues: 7
+  forks: 4
+  open-issues: 5
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-01'

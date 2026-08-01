@@ -13,7 +13,7 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-01'
 summary: Faculty had been creating hard links to jump from section to section if need
   be.  From year to year this has caused issues with links to past courses that the
   current student did not have access to.

@@ -15,4 +15,10 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v3.10.1_hinata
+    date: '2024-04-26T17:55:40Z'
+  checked: '2026-08-01'
+dependencies:
+  format_topics: 2024100700
+  mod_simplecertificate: 2024051106
