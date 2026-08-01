@@ -2,7 +2,11 @@ component: theme_essential
 source: https://github.com/gjb2048/moodle-theme_essential
 maintainers:
 - github: gjb2048
-tier: 0
+security-contact: https://github.com/gjb2048/moodle-theme_essential/security/advisories/new
+labels:
+- fully-free
+- donation-supported
+tier: 1
 status: active
 discovered: '2026-07-10'
 releases: []
