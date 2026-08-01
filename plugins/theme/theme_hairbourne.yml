@@ -2,7 +2,10 @@ component: theme_hairbourne
 source: https://github.com/gjb2048/moodle-theme_hairbourne
 maintainers:
 - github: gjb2048
-tier: 0
+security-contact: https://github.com/gjb2048/moodle-theme_hairbourne/security/advisories/new
+labels:
+- fully-free
+tier: 1
 status: active
 discovered: '2026-07-23'
 releases: []
