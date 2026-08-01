@@ -43,6 +43,18 @@ releases:
   listing-sha256: 15f0770ffdbedfd5954396f74eb3845113ee7646361669db9fc80b3a969c62d8
   published: '2026-08-01T02:25:12Z'
   released: '2026-08-01T02:13:59Z'
+- version: 1.0.4
+  tag: v1.0.4
+  commit: 554d3924ef45e58d98e6a679a9af1c9cfb8cd086
+  moodle-version: 2026080102
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: 2b3c34fec5cf0448ed9c16bcffd7eca751d6bb1d4de84b08362387f5440ad6e1
+  listing-sha256: 15f0770ffdbedfd5954396f74eb3845113ee7646361669db9fc80b3a969c62d8
+  published: '2026-08-01T10:02:57Z'
+  released: '2026-08-01T08:47:29Z'
 license: GPL-3.0
 summary: An exchange plugin to enable Open Educational Resource sharing
 metrics:
