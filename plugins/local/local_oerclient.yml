@@ -19,6 +19,42 @@ releases:
   listing-sha256: e6a77eb4578bd46d350674d2330b935f1a3a81adc9f29da38c8b78623b26ac99
   published: '2026-07-29T09:39:10Z'
   released: '2026-07-29T09:22:42Z'
+- version: 1.0.2
+  tag: v1.0.2
+  commit: 93c24d6e6ed03c02b879bb5309aeaf419ad4e336
+  moodle-version: 2026073101
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: 724fa7738fa13d1ec7c6ef08ebfe434b4087b6bfc27c7cf042380b0f5c0f2bb3
+  listing-sha256: e6a77eb4578bd46d350674d2330b935f1a3a81adc9f29da38c8b78623b26ac99
+  published: '2026-08-01T00:48:33Z'
+  released: '2026-07-31T20:58:05Z'
+- version: 1.0.3
+  tag: v1.0.3
+  commit: 4892bd7492451a95b0e5b3b930ab0b903e8aec9a
+  moodle-version: 2026080100
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: 6178dc35b90d6167d93216e816c1e2ce1aff9bfa0da30ec8387b81e8b2eb1f9b
+  listing-sha256: e6a77eb4578bd46d350674d2330b935f1a3a81adc9f29da38c8b78623b26ac99
+  published: '2026-08-01T06:46:43Z'
+  released: '2026-08-01T06:25:33Z'
+- version: 1.0.4
+  tag: v1.0.4
+  commit: 2c7945d841dd5ba130b95d2ad2b6c3b7748965fe
+  moodle-version: 2026080101
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: 407a383bf8cf00de47cfc1884166e2dacd87b55a53beacc707ce4783fcb0b9ad
+  listing-sha256: e6a77eb4578bd46d350674d2330b935f1a3a81adc9f29da38c8b78623b26ac99
+  published: '2026-08-01T10:02:55Z'
+  released: '2026-08-01T08:47:29Z'
 license: GPL-3.0
 summary: A client plugin to enable communication with an OER Exchange site
 metrics:
