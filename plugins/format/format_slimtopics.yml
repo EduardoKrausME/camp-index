@@ -2,7 +2,10 @@ component: format_slimtopics
 source: https://github.com/gjb2048/moodle-format_slimtopics
 maintainers:
 - github: gjb2048
-tier: 0
+security-contact: https://github.com/gjb2048/moodle-format_slimtopics/security/advisories/new
+labels:
+- fully-free
+tier: 1
 status: active
 discovered: '2026-07-11'
 releases: []
