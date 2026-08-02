@@ -13,7 +13,10 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 2.2.5
+    date: '2026-07-01T01:02:33Z'
+  checked: '2026-08-02'
 summary: This is a Moodle plugin that facilitates the backup and restoration process
   of courses. The plugin performs backups of Moodle courses and automatically transfers
   them to a configured FTP server, as well as organizes the backups by Moodle categories,

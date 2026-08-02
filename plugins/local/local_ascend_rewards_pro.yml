@@ -13,6 +13,9 @@ metrics:
   forks: 0
   open-issues: 5
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.0.0
+    date: '2026-05-13T18:17:22Z'
+  checked: '2026-08-02'
 summary: A Moodle local plugin that gamifies learning through a comprehensive badge,
   coin, and reward system.

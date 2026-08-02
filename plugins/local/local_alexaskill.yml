@@ -13,8 +13,10 @@ metrics:
   forks: 1
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-02'
 summary: 'Upload interaction-model.json to the JSON Editor to use as a base for building
   your custom Moodle skill front-end. Make sure you update the placeholder invocation
   name and COURSE slot values for your skill (see Moodle instructions below for getting
   COURSE slot values). COURSE slot values should use '
+dependencies:
+  webservice_restalexa: 2018080500

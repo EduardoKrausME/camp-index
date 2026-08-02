@@ -14,4 +14,8 @@ metrics:
   forks: 3
   open-issues: 104
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-02'
+dependencies:
+  local_wunderbyte_table: 2024040200
+  mod_adaptivequiz: 2024031502
+  adaptivequizcatmodel_catquiz: 2024062800

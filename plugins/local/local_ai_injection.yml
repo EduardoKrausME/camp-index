@@ -13,5 +13,10 @@ metrics:
   forks: 3
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v0.3
+    date: '2026-05-08T07:02:18Z'
+  checked: '2026-08-02'
 summary: Framework plugin for AI-based JavaScript injection subplugins.
+dependencies:
+  local_ai_manager: 2025082900

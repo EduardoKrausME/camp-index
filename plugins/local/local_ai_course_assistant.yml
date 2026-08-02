@@ -10,9 +10,12 @@ summary: 'SOLA - Saylor Online Learning Assistant: AI-powered learning coach Moo
   plugin'
 license: GPL-3.0
 metrics:
-  updated: '2026-07-11T21:08:45Z'
+  updated: '2026-08-01T23:56:12Z'
   stars: 13
   forks: 7
-  open-issues: 0
+  open-issues: 3
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v6.9.4
+    date: '2026-07-22T21:25:21Z'
+  checked: '2026-08-02'

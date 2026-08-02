@@ -11,8 +11,11 @@ metrics:
   updated: '2026-04-17T05:53:00Z'
   stars: 1
   forks: 0
-  open-issues: 1
+  open-issues: 2
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.1.1
+    date: '2026-04-17T05:53:14Z'
+  checked: '2026-08-02'
 summary: Automatic Badges is a Moodle plugin that empowers course administrators and
   teachers to dynamically assign badges to users based on flexible rules and criteria.

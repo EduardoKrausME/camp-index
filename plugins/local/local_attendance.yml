@@ -10,8 +10,11 @@ license: GPL-3.0
 summary: Track attendance of students in Moodle by having them to enter a quiz.
 metrics:
   updated: '2026-06-25T07:20:47Z'
-  stars: 2
+  stars: 3
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 5.2-r2
+    date: '2026-06-10T07:05:05Z'
+  checked: '2026-08-02'

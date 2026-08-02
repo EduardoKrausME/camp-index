@@ -13,6 +13,9 @@ metrics:
   forks: 1
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.0.0
+    date: '2025-10-15T12:53:28Z'
+  checked: '2026-08-02'
 summary: Bulk Roles Importer is a Moodle plugin that enables administrators to import
   and manage multiple roles in bulk using XML role presets.

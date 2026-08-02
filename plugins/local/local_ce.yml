@@ -9,9 +9,11 @@ releases: []
 license: GPL-3.0
 summary: Custom Elements Plugin
 metrics:
-  updated: '2026-04-13T16:30:03Z'
+  updated: '2026-07-22T20:31:20Z'
   stars: 1
   forks: 1
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-02'
+dependencies:
+  local_mr: any

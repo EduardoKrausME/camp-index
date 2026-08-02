@@ -11,8 +11,11 @@ summary: ChemIllusion Study Tools — privacy-aware chemistry study plugin for M
 license: GPL-3.0
 metrics:
   updated: '2026-06-24T04:37:58Z'
-  stars: 0
+  stars: 2
   forks: 0
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v0.2.0
+    date: '2026-06-24T03:41:57Z'
+  checked: '2026-08-02'

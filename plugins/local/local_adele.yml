@@ -8,11 +8,14 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 metrics:
-  updated: '2026-07-09T13:33:41Z'
+  updated: '2026-07-29T11:22:38Z'
   stars: 2
-  forks: 2
-  open-issues: 51
+  forks: 3
+  open-issues: 77
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-02'
 summary: Adele is a Moodle local plugin for building and operating adaptive learning
   paths in moodle.
+dependencies:
+  mod_adele: 2026072500
+  enrol_adele: 2026072500

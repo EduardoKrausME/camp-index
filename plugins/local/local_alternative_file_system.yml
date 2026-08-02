@@ -9,10 +9,13 @@ releases: []
 license: GPL-3.0
 metrics:
   updated: '2026-07-04T01:27:34Z'
-  stars: 1
+  stars: 2
   forks: 10
   open-issues: 1
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 1.3.6
+    date: '2026-07-04T01:27:38Z'
+  checked: '2026-08-02'
 summary: This plugin allows transferring files from moodledata/filedir to cloud storage
   and makes Moodle serve/read those files remotely.

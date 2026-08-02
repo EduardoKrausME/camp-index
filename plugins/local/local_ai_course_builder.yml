@@ -10,9 +10,9 @@ license: GPL-3.0
 summary: 'Plugin local de Moodle que automatiza el diseño instruccional con IA: de
   la guía de estudio al aula virtual estructurada, con revisión docente obligatoria.'
 metrics:
-  updated: '2026-07-06T07:23:43Z'
+  updated: '2026-07-23T06:02:35Z'
   stars: 0
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-02'
