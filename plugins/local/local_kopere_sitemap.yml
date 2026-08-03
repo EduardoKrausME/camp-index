@@ -4,6 +4,8 @@ security-contact: 'https://github.com/EduardoKrausME/moodle-local_kopere_sitemap
 maintainers:
 - github: EduardoKrausME
 tier: 1
+labels:
+  - fully-free
 status: active
 discovered: '2026-07-11'
 releases: []

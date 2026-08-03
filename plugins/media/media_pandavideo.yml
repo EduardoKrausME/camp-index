@@ -4,6 +4,8 @@ security-contact: 'https://github.com/panda-moodle/moodle-media_pandavideo/issue
 maintainers:
 - github: panda-moodle
 tier: 1
+labels:
+  - fully-free
 status: active
 discovered: '2026-07-11'
 releases: []
