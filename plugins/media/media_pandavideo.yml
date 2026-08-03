@@ -5,7 +5,7 @@ maintainers:
 - github: panda-moodle
 tier: 1
 labels:
-  - fully-free
+  - external-account
 status: active
 discovered: '2026-07-11'
 releases: []
