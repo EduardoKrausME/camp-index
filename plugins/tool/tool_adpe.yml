@@ -1,0 +1,17 @@
+component: tool_adpe
+source: https://github.com/adpe/moodle-tool_adpe
+maintainers:
+- github: adpe
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+summary: Developing a plugin in Moodle development course (https://moodledev.moodle.school)
+metrics:
+  updated: '2019-05-10T13:06:13Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

@@ -1,0 +1,18 @@
+component: local_stbehaviour
+source: https://github.com/dominikhalvonik/stbehaviour-moodle
+maintainers:
+- github: dominikhalvonik
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+summary: Moodle plugin for students behavior monitoring and activity formal evaluation
+  process
+metrics:
+  updated: '2020-04-28T11:18:29Z'
+  stars: 0
+  forks: 0
+  open-issues: 7
+  archived: false
+  checked: '2026-08-03'

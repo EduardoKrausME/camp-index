@@ -1,0 +1,18 @@
+component: tool_techtiger7
+source: https://github.com/tomdickman/moodle-tool_techtiger7
+maintainers:
+- github: tomdickman
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+dependencies:
+  mod_data: any
+metrics:
+  updated: '2019-01-27T12:48:10Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

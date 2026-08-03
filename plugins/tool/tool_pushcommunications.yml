@@ -1,0 +1,18 @@
+component: tool_pushcommunications
+source: https://github.com/PeterUpfold/moodle-admin-tool-pushcommunications
+maintainers:
+- github: PeterUpfold
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+summary: For use with moodlemobile2 app tvs fork -- a tool used to send out push communications
+  to subscribers.
+metrics:
+  updated: '2020-04-03T09:13:59Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

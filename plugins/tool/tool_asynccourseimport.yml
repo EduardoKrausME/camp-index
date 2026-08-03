@@ -1,0 +1,18 @@
+component: tool_asynccourseimport
+source: https://github.com/liip-elearning/moodle-tool_asynccourseimport
+maintainers:
+- github: liip-elearning
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+summary: This is a Moodle admin/tool plugin that imports a big number of courses from
+  a CSV file using asynchronous scheduled  tasks to avoid any browser's timeout errors.
+metrics:
+  updated: '2020-07-28T08:38:27Z'
+  stars: 2
+  forks: 3
+  open-issues: 7
+  archived: false
+  checked: '2026-08-03'

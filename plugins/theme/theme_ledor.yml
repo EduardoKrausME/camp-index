@@ -1,0 +1,16 @@
+component: theme_ledor
+source: https://github.com/old-cte-zl-ifrn/moodle__theme_ledor2
+maintainers:
+- github: old-cte-zl-ifrn
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2019-07-31T18:04:50Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-08-03'

@@ -1,0 +1,17 @@
+component: qformat_printout
+source: https://github.com/maysarax/moodle-printout
+maintainers:
+- github: maysarax
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+summary: Moodle printout
+metrics:
+  updated: '2022-02-03T15:36:27Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

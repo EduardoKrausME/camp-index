@@ -1,0 +1,19 @@
+component: theme_bambuco1
+source: https://github.com/bambuco/moodle-theme_bambuco1
+maintainers:
+- github: bambuco
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+summary: A moodle theme based in Moove and boost Moodle themes
+dependencies:
+  theme_boost: 2020110900
+metrics:
+  updated: '2021-12-17T05:26:12Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

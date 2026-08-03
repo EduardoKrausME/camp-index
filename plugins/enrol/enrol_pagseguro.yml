@@ -1,0 +1,16 @@
+component: enrol_pagseguro
+source: https://github.com/AgattiTech/moodle_pagseguro_transparente
+maintainers:
+- github: AgattiTech
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2021-03-22T20:13:22Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

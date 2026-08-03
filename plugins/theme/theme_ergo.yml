@@ -1,0 +1,19 @@
+component: theme_ergo
+source: https://github.com/davidherney/moodle-theme_ergo
+maintainers:
+- github: davidherney
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+summary: A moodle theme
+dependencies:
+  theme_boost: 2019111800
+metrics:
+  updated: '2021-04-19T01:33:50Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

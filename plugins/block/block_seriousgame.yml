@@ -1,0 +1,17 @@
+component: block_seriousgame
+source: https://github.com/youssefelhanafi/seriousGameMoodleblock
+maintainers:
+- github: youssefelhanafi
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+summary: Moodle block for a serious game
+metrics:
+  updated: '2020-11-24T07:22:36Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

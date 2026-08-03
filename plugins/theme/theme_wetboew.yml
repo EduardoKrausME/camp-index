@@ -1,0 +1,19 @@
+component: theme_wetboew
+source: https://github.com/wet-boew/wet-boew-moodle
+maintainers:
+- github: wet-boew
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+summary: Web Experience Toolkit (WET) Moodle variant.
+dependencies:
+  theme_bootstrapbase: 2014111000
+metrics:
+  updated: '2022-05-15T10:37:41Z'
+  stars: 4
+  forks: 4
+  open-issues: 1
+  archived: false
+  checked: '2026-08-03'

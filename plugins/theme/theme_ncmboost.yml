@@ -1,0 +1,19 @@
+component: theme_ncmboost
+source: https://github.com/navitaslts/moodle-theme_ncmboost
+maintainers:
+- github: navitaslts
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+summary: NCM Boost Theme for Moodle
+dependencies:
+  theme_boost: 2018051400
+metrics:
+  updated: '2021-10-15T03:40:40Z'
+  stars: 0
+  forks: 2
+  open-issues: 1
+  archived: false
+  checked: '2026-08-03'

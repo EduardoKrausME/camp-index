@@ -1,0 +1,19 @@
+component: theme_cocreatic
+source: https://github.com/cocreatic/moodle-theme_cocreatic
+maintainers:
+- github: cocreatic
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+summary: CocreaTIC theme is based in Moove and boost Moodle themes.
+dependencies:
+  theme_boost: 2019052000
+metrics:
+  updated: '2020-11-03T00:05:40Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

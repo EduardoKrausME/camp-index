@@ -1,0 +1,19 @@
+component: qformat_simplecsv
+source: https://github.com/PawelSuwinski/moodle-qformat_simplecsv
+maintainers:
+- github: PawelSuwinski
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: AGPL-3.0
+summary: Simple CSV - a simple format for creating multiple choice questions with
+  one or more correct answers and no feedback using tables in any spreadsheet by saving
+  it as plain/csv file.
+metrics:
+  updated: '2020-08-07T07:11:47Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

@@ -1,0 +1,16 @@
+component: local_country_category
+source: https://github.com/sahedbs23/moodle-country-category
+maintainers:
+- github: sahedbs23
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2020-06-10T16:21:00Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

@@ -1,0 +1,20 @@
+component: theme_monoid
+source: https://github.com/davidherzlos/moodle-theme_monoid
+maintainers:
+- github: davidherzlos
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+summary: A simple Moodle theme that takes "less is more" design principle to the next
+  level.
+dependencies:
+  theme_boost: 2018120300
+metrics:
+  updated: '2020-05-15T20:17:32Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

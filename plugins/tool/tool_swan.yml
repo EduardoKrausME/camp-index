@@ -1,0 +1,17 @@
+component: tool_swan
+source: https://github.com/gormster/moodle-tool_swan
+maintainers:
+- github: gormster
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+summary: Database migration (sort of) for Moodle plugins
+metrics:
+  updated: '2019-07-01T05:55:27Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

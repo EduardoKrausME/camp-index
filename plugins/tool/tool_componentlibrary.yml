@@ -1,0 +1,16 @@
+component: tool_componentlibrary
+source: https://github.com/bmbrands/moodle-tool_componentlibrary
+maintainers:
+- github: bmbrands
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2021-01-18T02:58:53Z'
+  stars: 3
+  forks: 1
+  open-issues: 1
+  archived: false
+  checked: '2026-08-03'

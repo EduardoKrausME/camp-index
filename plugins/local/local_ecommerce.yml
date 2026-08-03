@@ -1,0 +1,16 @@
+component: local_ecommerce
+source: https://github.com/rumpapl/ecommerce_moodle_plugin
+maintainers:
+- github: rumpapl
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2021-10-28T07:14:41Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

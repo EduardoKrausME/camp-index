@@ -1,0 +1,16 @@
+component: tool_dataparticipants
+source: https://github.com/IOC/moodle-tool_dataparticipants
+maintainers:
+- github: IOC
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2019-05-13T12:06:29Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

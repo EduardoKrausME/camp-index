@@ -1,0 +1,16 @@
+component: tool_claytondarl
+source: https://github.com/ClaytonDarl/moodle-tool_ClaytonDarl
+maintainers:
+- github: ClaytonDarl
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2022-01-27T21:58:01Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

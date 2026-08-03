@@ -1,0 +1,17 @@
+component: calendartype_jewish
+source: https://github.com/yedidiaklein/moodle-calendartype_jewish
+maintainers:
+- github: yedidiaklein
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+summary: Jewish (Hebrew) Calendar Type for Moodle
+metrics:
+  updated: '2019-07-11T19:58:57Z'
+  stars: 2
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-08-03'

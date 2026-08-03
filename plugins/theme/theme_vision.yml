@@ -1,0 +1,19 @@
+component: theme_vision
+source: https://github.com/HCPSS/moodle-theme_vision
+maintainers:
+- github: HCPSS
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+summary: A Moodle subtheme of Essentials for HCPSS
+dependencies:
+  theme_essential: 2016061704
+metrics:
+  updated: '2021-03-01T15:49:33Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: true
+  checked: '2026-08-03'

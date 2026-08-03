@@ -1,0 +1,17 @@
+component: local_coursecopy
+source: https://github.com/unifr-dit-er/moodle-coursecopy
+maintainers:
+- github: unifr-dit-er
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: MIT
+summary: Moodle course archiving and copying
+metrics:
+  updated: '2021-07-08T08:24:50Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

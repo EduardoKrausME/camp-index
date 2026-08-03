@@ -1,0 +1,19 @@
+component: theme_rebel
+source: https://github.com/dbnschools/moodle-theme_rebel
+maintainers:
+- github: dbnschools
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+summary: A radical Boost-based theme for Moodle LMS.
+dependencies:
+  theme_boost: 2020061500
+metrics:
+  updated: '2021-01-11T13:45:24Z'
+  stars: 4
+  forks: 3
+  open-issues: 5
+  archived: false
+  checked: '2026-08-03'

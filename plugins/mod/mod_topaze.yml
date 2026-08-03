@@ -1,0 +1,16 @@
+component: mod_topaze
+source: https://github.com/sfraysse/moodle-topaze
+maintainers:
+- github: sfraysse
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2021-04-07T13:00:13Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

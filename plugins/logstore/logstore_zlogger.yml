@@ -1,0 +1,17 @@
+component: logstore_zlogger
+source: https://github.com/exezick/zlogger-moodle
+maintainers:
+- github: exezick
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+summary: Logger module for moodle using winston
+metrics:
+  updated: '2020-09-29T11:37:51Z'
+  stars: 4
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

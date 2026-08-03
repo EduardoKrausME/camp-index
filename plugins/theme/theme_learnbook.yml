@@ -1,0 +1,18 @@
+component: theme_learnbook
+source: https://github.com/open-lms-open-source/moodle-theme_learnbook
+maintainers:
+- github: open-lms-open-source
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+dependencies:
+  theme_boost: 2018120300
+metrics:
+  updated: '2021-04-09T21:56:29Z'
+  stars: 2
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

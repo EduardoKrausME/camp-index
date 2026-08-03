@@ -1,0 +1,17 @@
+component: gradeexport_ncmgradeapproval
+source: https://github.com/navitaslts/moodle-gradeexport_ncmgradeapproval
+maintainers:
+- github: navitaslts
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+summary: Grade Export PDF - Moodle Plugin
+metrics:
+  updated: '2019-09-11T03:44:57Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

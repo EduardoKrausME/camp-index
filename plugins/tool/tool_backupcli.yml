@@ -1,0 +1,17 @@
+component: tool_backupcli
+source: https://github.com/AVADOLearning/moodle-tool_backupcli
+maintainers:
+- github: AVADOLearning
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+summary: Moodle backup and restore CLI
+metrics:
+  updated: '2019-03-07T00:29:39Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

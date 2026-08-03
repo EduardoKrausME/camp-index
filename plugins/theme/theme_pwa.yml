@@ -1,0 +1,20 @@
+component: theme_pwa
+source: https://github.com/jlb224/moodle-theme_pwa
+maintainers:
+- github: jlb224
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+summary: Theme PWA is a child theme of Boost. It replicates the look and feel of the
+  Professional Writing Academy website.
+dependencies:
+  theme_boost: 2020061500
+metrics:
+  updated: '2020-09-07T18:07:05Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

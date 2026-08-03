@@ -1,0 +1,17 @@
+component: local_customreportuv
+source: https://github.com/cjcruzrivera/moodle-customreportuv
+maintainers:
+- github: cjcruzrivera
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+summary: Customized report for a univalle course
+metrics:
+  updated: '2019-04-11T20:38:34Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

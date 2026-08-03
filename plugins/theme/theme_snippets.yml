@@ -1,0 +1,19 @@
+component: theme_snippets
+source: https://github.com/sharpchi/moodle_theme-snippets
+maintainers:
+- github: sharpchi
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+summary: A skeleton boost child theme
+dependencies:
+  theme_boost: 2019111800
+metrics:
+  updated: '2020-05-11T08:02:46Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

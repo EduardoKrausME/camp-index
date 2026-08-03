@@ -1,0 +1,16 @@
+component: local_ajaxdemo
+source: https://github.com/christophermrichter/Ajax-demonstration-in-Moodle-3.9
+maintainers:
+- github: christophermrichter
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2021-03-01T23:53:50Z'
+  stars: 3
+  forks: 2
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

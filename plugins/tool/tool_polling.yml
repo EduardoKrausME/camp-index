@@ -1,0 +1,17 @@
+component: tool_polling
+source: https://github.com/marinaglancy/moodle-tool_polling
+maintainers:
+- github: marinaglancy
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+summary: Polling page updates
+metrics:
+  updated: '2020-05-04T21:25:02Z'
+  stars: 2
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

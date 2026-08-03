@@ -1,0 +1,19 @@
+component: theme_sonofbooster
+source: https://github.com/mnods/moodle_theme_sonofbooster
+maintainers:
+- github: mnods
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+summary: boost theme simplfied for theme course
+dependencies:
+  theme_boost: 2018120300
+metrics:
+  updated: '2019-03-26T00:02:05Z'
+  stars: 0
+  forks: 1
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

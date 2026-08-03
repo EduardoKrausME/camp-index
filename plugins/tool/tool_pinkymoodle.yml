@@ -1,0 +1,16 @@
+component: tool_pinkymoodle
+source: https://github.com/pinky-moodle/moodle-tool_pinkymoodle
+maintainers:
+- github: pinky-moodle
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2021-07-06T06:49:48Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

@@ -1,0 +1,18 @@
+component: tool_history_attestoodle
+source: https://github.com/grp-attestoodle/moodle-tool_history_attestoodle
+maintainers:
+- github: grp-attestoodle
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: AGPL-3.0
+dependencies:
+  tool_attestoodle: 2019032701
+metrics:
+  updated: '2021-06-14T09:06:13Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

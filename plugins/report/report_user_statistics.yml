@@ -1,0 +1,16 @@
+component: report_user_statistics
+source: https://github.com/MoodleBeclever/moodle-user_statistics
+maintainers:
+- github: MoodleBeclever
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2021-04-22T08:19:12Z'
+  stars: 0
+  forks: 0
+  open-issues: 5
+  archived: false
+  checked: '2026-08-03'

@@ -1,0 +1,19 @@
+component: capquizreport_template
+source: https://github.com/KQMATH/moodle-capquizreport_template
+maintainers:
+- github: KQMATH
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+summary: ':page_facing_up: A template for developing CAPQuiz report plugins for Moodle'
+dependencies:
+  mod_capquiz: 2019071800
+metrics:
+  updated: '2020-08-05T20:27:03Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

@@ -1,0 +1,18 @@
+component: local_uploadusers
+source: https://github.com/mattszumski/upload_users_moodle
+maintainers:
+- github: mattszumski
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+summary: Moodle local plugin which takes csv/txt file from the user to add several
+  new information into the database. Written in php.
+metrics:
+  updated: '2021-12-20T09:59:23Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

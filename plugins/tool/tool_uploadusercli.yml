@@ -1,0 +1,19 @@
+component: tool_uploadusercli
+source: https://github.com/alexandru-elisei/moodle-tool_uploadusercli
+maintainers:
+- github: alexandru-elisei
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+summary: Moodle Admin Tool for uploading users from a CSV file using the cli.
+dependencies:
+  tool_uploaduser: any
+metrics:
+  updated: '2020-10-04T14:07:24Z'
+  stars: 3
+  forks: 3
+  open-issues: 2
+  archived: false
+  checked: '2026-08-03'

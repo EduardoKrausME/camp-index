@@ -1,0 +1,19 @@
+component: theme_sibsu
+source: https://github.com/yurinskiy/moodle-theme_sibsu
+maintainers:
+- github: yurinskiy
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+summary: Тема в фирменном стиле СибГУ им М.Ф. Решетнева
+dependencies:
+  theme_boost: 2018120300
+metrics:
+  updated: '2019-08-30T06:48:20Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

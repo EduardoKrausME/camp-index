@@ -1,0 +1,17 @@
+component: tool_coursesummary
+source: https://github.com/wcln/moodle-tool_coursesummary
+maintainers:
+- github: wcln
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+summary: Overwrites the course summaries for every course in a particular category.
+metrics:
+  updated: '2022-01-11T02:11:52Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

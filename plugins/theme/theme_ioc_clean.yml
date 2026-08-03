@@ -1,0 +1,18 @@
+component: theme_ioc_clean
+source: https://github.com/IOC/moodle-theme_ioc_clean
+maintainers:
+- github: IOC
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+dependencies:
+  theme_bootstrapbase: 2018050800
+metrics:
+  updated: '2019-10-09T14:08:14Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

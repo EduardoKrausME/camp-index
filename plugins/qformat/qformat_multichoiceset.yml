@@ -1,0 +1,21 @@
+component: qformat_multichoiceset
+source: https://github.com/jmvedrine/moodle-qformat_multichoiceset
+maintainers:
+- github: jmvedrine
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+summary: This is a Moodle question import format. It takes a Moodle XML file and import
+  all regular multichoice questions as all or nothing multichoice questions (multichoiceset)
+dependencies:
+  qformat_xml: 2016120500
+  qtype_multichoiceset: 2016012300
+metrics:
+  updated: '2019-04-29T12:00:27Z'
+  stars: 0
+  forks: 0
+  open-issues: 1
+  archived: false
+  checked: '2026-08-03'

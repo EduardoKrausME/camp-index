@@ -1,0 +1,20 @@
+component: theme_usac
+source: https://github.com/josepablousac/plantilla-moodle-usac
+maintainers:
+- github: josepablousac
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: MIT
+summary: Plantilla institucional de Moodle de la USAC
+dependencies:
+  theme_bootstrapbase: 2014050800
+  theme_clean: 2014050800
+metrics:
+  updated: '2019-03-27T14:20:07Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

@@ -1,0 +1,18 @@
+component: theme_schoollege
+source: https://github.com/dbnschools/moodle-theme_schoollege
+maintainers:
+- github: dbnschools
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+dependencies:
+  theme_boost: 2020061500
+metrics:
+  updated: '2021-04-26T15:48:30Z'
+  stars: 1
+  forks: 2
+  open-issues: 1
+  archived: false
+  checked: '2026-08-03'

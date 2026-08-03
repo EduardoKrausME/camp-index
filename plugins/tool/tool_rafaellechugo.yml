@@ -1,0 +1,17 @@
+component: tool_rafaellechugo
+source: https://github.com/rafaellechugo/moodle-tool_rafaellechugo
+maintainers:
+- github: rafaellechugo
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+summary: Just a Moodle HQ development course exercise
+metrics:
+  updated: '2018-10-23T06:27:09Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

@@ -1,0 +1,20 @@
+component: theme_stardust
+source: https://github.com/devlionco/moodle-theme_stardust
+maintainers:
+- github: devlionco
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+summary: The Sturdust Moodle Theme
+dependencies:
+  theme_fordson: 2018020300
+  theme_boost: 2016120500
+metrics:
+  updated: '2019-09-19T12:39:13Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

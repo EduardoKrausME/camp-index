@@ -1,0 +1,16 @@
+component: paygw_liqpay
+source: https://github.com/semteacher/moodle-payment_gateway_liqpay
+maintainers:
+- github: semteacher
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+metrics:
+  updated: '2021-05-09T17:36:04Z'
+  stars: 1
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'

@@ -1,0 +1,18 @@
+component: theme_kitty
+source: https://github.com/Rishadi/moodle-theme_kitty
+maintainers:
+- github: Rishadi
+tier: 0
+status: active
+discovered: '2026-08-03'
+releases: []
+license: GPL-3.0
+dependencies:
+  theme_bootstrapbase: 2018050800
+metrics:
+  updated: '2019-03-26T10:39:27Z'
+  stars: 0
+  forks: 0
+  open-issues: 0
+  archived: false
+  checked: '2026-08-03'
