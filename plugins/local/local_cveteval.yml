@@ -13,5 +13,10 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: cveteval-11-2022
+    date: '2022-11-28T22:22:04Z'
+  checked: '2026-08-03'
 summary: Moodle Local CompetVetEval
+dependencies:
+  local_cltools: 2022100101

@@ -12,7 +12,10 @@ summary: Moodle local plugin customcleanurl purpose to make the moodle url in mo
 metrics:
   updated: '2026-06-30T17:13:01Z'
   stars: 4
-  forks: 2
+  forks: 4
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v1.1.5
+    date: '2026-06-27T15:39:19Z'
+  checked: '2026-08-03'

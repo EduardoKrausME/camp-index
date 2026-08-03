@@ -13,5 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: 0.9.8
+    date: '2024-07-20T13:48:28Z'
+  checked: '2026-08-03'
 summary: データベース等のエントリにコメントがついた場合に、エントリの作者に通知が飛ぶようにするための、Moodleのローカルプラグインです。

@@ -13,6 +13,8 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-03'
 summary: 'A Moodle local plugin for cleaning up question banks and quiz data: removing
   duplicate questions, empty categories, unused questions, and old quiz attempts.'
+dependencies:
+  mod_quiz: 2022041900

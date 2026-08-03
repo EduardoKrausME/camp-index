@@ -17,7 +17,10 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v5.0-r1
+    date: '2025-11-20T13:58:32Z'
+  checked: '2026-08-03'
 security-contact: https://github.com/ffhs/moodle-local_course_checker/security
 labels:
 - fully-free

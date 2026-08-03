@@ -14,6 +14,9 @@ metrics:
   updated: '2026-05-16T01:22:12Z'
   stars: 22
   forks: 14
-  open-issues: 9
+  open-issues: 8
   archived: false
-  checked: '2026-07-11'
+  latest-release:
+    tag: v2.0.0
+    date: '2026-05-16T01:26:26Z'
+  checked: '2026-08-03'

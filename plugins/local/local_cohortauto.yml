@@ -11,7 +11,7 @@ summary: Automatically add users into cohorts. (Previously moodle-auth_mcae.)
 metrics:
   updated: '2025-05-28T07:09:29Z'
   stars: 11
-  forks: 13
+  forks: 14
   open-issues: 9
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-03'

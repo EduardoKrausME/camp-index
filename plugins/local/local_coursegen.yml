@@ -15,4 +15,9 @@ metrics:
   forks: 0
   open-issues: 0
   archived: false
-  checked: '2026-07-11'
+  checked: '2026-08-03'
+dependencies:
+  format_pathway: 2026052000
+  local_quizgenpro: 2026051300
+  mod_knowledgecheck: 2026051800
+  filter_knowledgecheck: 2026051800
