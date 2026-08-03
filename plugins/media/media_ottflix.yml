@@ -6,6 +6,7 @@ maintainers:
 tier: 1
 labels:
   - external-account
+  - paid-service
 status: active
 discovered: '2026-07-11'
 releases: []

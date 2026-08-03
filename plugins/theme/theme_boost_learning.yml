@@ -3,7 +3,7 @@ source: https://github.com/EduardoKrausME/moodle-theme_boost_learning
 maintainers:
 - github: EduardoKrausME
 tier: 1
-status: inactive
+status: active
 discovered: '2026-08-03'
 releases: []
 license: GPL-3.0
