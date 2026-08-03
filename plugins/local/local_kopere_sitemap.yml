@@ -1,6 +1,6 @@
 component: local_kopere_sitemap
 source: https://github.com/EduardoKrausME/moodle-local_kopere_sitemap
-security-contact: 'https://github.com/EduardoKrausME/moodle-local_kopere_sitemap/issues'
+security-contact: 'https://github.com/EduardoKrausME/moodle-local_kopere_sitemap/security'
 maintainers:
 - github: EduardoKrausME
 tier: 1

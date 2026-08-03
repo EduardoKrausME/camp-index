@@ -1,6 +1,6 @@
 component: local_alternative_file_system
 source: https://github.com/EduardoKrausME/moodle-local_alternative_file_system
-security-contact: 'https://github.com/EduardoKrausME/moodle-local_alternative_file_system/issues'
+security-contact: 'https://github.com/EduardoKrausME/moodle-local_alternative_file_system/security'
 maintainers:
 - github: EduardoKrausME
 tier: 1

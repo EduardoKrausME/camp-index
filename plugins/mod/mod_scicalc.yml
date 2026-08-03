@@ -1,6 +1,6 @@
 component: mod_scicalc
 source: https://github.com/EduardoKrausME/moodle-mod_scicalc
-security-contact: 'https://github.com/EduardoKrausME/moodle-mod_scicalc/issues'
+security-contact: 'https://github.com/EduardoKrausME/moodle-mod_scicalc/security'
 maintainers:
 - github: EduardoKrausME
 tier: 1

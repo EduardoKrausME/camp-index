@@ -1,6 +1,6 @@
 component: local_backupftp
 source: https://github.com/EduardoKrausME/moodle-local_backupftp
-security-contact: 'https://github.com/EduardoKrausME/moodle-local_backupftp/issues'
+security-contact: 'https://github.com/EduardoKrausME/moodle-local_backupftp/security'
 maintainers:
 - github: EduardoKrausME
 tier: 1

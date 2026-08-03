@@ -1,6 +1,6 @@
 component: mod_childcourse
 source: https://github.com/EduardoKrausME/moodle-mod_childcourse
-security-contact: 'https://github.com/EduardoKrausME/moodle-mod_childcourse/issues'
+security-contact: 'https://github.com/EduardoKrausME/moodle-mod_childcourse/security'
 maintainers:
 - github: EduardoKrausME
 tier: 1

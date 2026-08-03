@@ -1,6 +1,6 @@
 component: theme_eadtraining
 source: https://github.com/EduardoKrausME/moodle-theme_eadtraining
-security-contact: 'https://github.com/EduardoKrausME/moodle-theme_eadtraining/issues'
+security-contact: 'https://github.com/EduardoKrausME/moodle-theme_eadtraining/security'
 maintainers:
 - github: EduardoKrausME
 tier: 1

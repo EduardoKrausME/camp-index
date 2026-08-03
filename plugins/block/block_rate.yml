@@ -1,6 +1,6 @@
 component: block_rate
 source: https://github.com/EduardoKrausME/moodle-block_rate
-security-contact: 'https://github.com/EduardoKrausME/moodle-block_rate/issues'
+security-contact: 'https://github.com/EduardoKrausME/moodle-block_rate/security'
 maintainers:
   - github: EduardoKrausME
 tier: 1

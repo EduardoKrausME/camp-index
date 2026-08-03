@@ -1,6 +1,6 @@
 component: local_boost_dark
 source: https://github.com/EduardoKrausME/moodle-local_boost_dark
-security-contact: 'https://github.com/EduardoKrausME/moodle-local_boost_dark/issues'
+security-contact: 'https://github.com/EduardoKrausME/moodle-local_boost_dark/security'
 maintainers:
 - github: EduardoKrausME
 tier: 1

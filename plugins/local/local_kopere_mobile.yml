@@ -1,6 +1,6 @@
 component: local_kopere_mobile
 source: https://github.com/EduardoKrausME/moodle-local_kopere_mobile
-security-contact: 'https://github.com/EduardoKrausME/moodle-local_kopere_mobile/issues'
+security-contact: 'https://github.com/EduardoKrausME/moodle-local_kopere_mobile/security'
 maintainers:
 - github: EduardoKrausME
 tier: 1

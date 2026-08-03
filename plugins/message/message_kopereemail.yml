@@ -1,6 +1,6 @@
 component: message_kopereemail
 source: https://github.com/EduardoKrausME/moodle-message_kopereemail
-security-contact: 'https://github.com/EduardoKrausME/moodle-message_kopereemail/issues'
+security-contact: 'https://github.com/EduardoKrausME/moodle-message_kopereemail/security'
 maintainers:
 - github: EduardoKrausME
 tier: 1

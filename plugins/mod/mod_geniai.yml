@@ -1,6 +1,6 @@
 component: mod_geniai
 source: https://github.com/EduardoKrausME/moodle-mod_geniai
-security-contact: 'https://github.com/EduardoKrausME/moodle-mod_geniai/issues'
+security-contact: 'https://github.com/EduardoKrausME/moodle-mod_geniai/security'
 maintainers:
 - github: EduardoKrausME
 tier: 1

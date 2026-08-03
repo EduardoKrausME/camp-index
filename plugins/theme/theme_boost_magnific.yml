@@ -1,6 +1,6 @@
 component: theme_boost_magnific
 source: https://github.com/EduardoKrausME/moodle-theme_boost_magnific
-security-contact: 'https://github.com/EduardoKrausME/moodle-theme_boost_magnific/issues'
+security-contact: 'https://github.com/EduardoKrausME/moodle-theme_boost_magnific/security'
 maintainers:
 - github: EduardoKrausME
 tier: 1

@@ -1,6 +1,6 @@
 component: mod_pandavideo
 source: https://github.com/panda-moodle/moodle-mod_pandavideo
-security-contact: 'https://github.com/panda-moodle/moodle-mod_pandavideo/issues'
+security-contact: 'https://github.com/panda-moodle/moodle-mod_pandavideo/security'
 maintainers:
 - github: panda-moodle
 tier: 1

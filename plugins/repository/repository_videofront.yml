@@ -1,9 +1,11 @@
 component: repository_videofront
 source: https://github.com/Videofront/moodle-repository_videofront
-security-contact: 'https://github.com/videofront/moodle-repository_videofront/issues'
+security-contact: 'https://github.com/videofront/moodle-repository_videofront/security'
 maintainers:
 - github: Videofront
 tier: 1
+labels:
+  - fully-free
 status: active
 discovered: '2026-07-11'
 releases: []

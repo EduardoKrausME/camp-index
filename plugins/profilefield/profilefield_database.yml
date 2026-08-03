@@ -1,6 +1,6 @@
 component: profilefield_database
 source: https://github.com/EduardoKrausME/moodle-profilefield_database
-security-contact: 'https://github.com/EduardoKrausME/moodle-profilefield_database/issues'
+security-contact: 'https://github.com/EduardoKrausME/moodle-profilefield_database/security'
 maintainers:
 - github: EduardoKrausME
 tier: 1

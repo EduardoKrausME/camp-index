@@ -1,6 +1,6 @@
 component: mod_certificatebeautiful
 source: https://github.com/EduardoKrausME/moodle-mod_certificatebeautiful
-security-contact: 'https://github.com/EduardoKrausME/moodle-mod_certificatebeautiful/issues'
+security-contact: 'https://github.com/EduardoKrausME/moodle-mod_certificatebeautiful/security'
 maintainers:
 - github: EduardoKrausME
 tier: 1

@@ -1,6 +1,6 @@
 component: mod_cloudstudio
 source: https://github.com/eadtech-moodle/moodle-mod_cloudstudio
-security-contact: 'https://github.com/eadtech-moodle/moodle-mod_cloudstudio/issues'
+security-contact: 'https://github.com/eadtech-moodle/moodle-mod_cloudstudio/security'
 maintainers:
 - github: eadtech-moodle
 tier: 1

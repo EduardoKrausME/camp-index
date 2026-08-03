@@ -1,6 +1,6 @@
 component: local_kopere_dashboard
 source: https://github.com/EduardoKrausME/moodle-local-kopere_dashboard
-security-contact: 'https://github.com/EduardoKrausME/moodle-local-kopere_dashboard/issues'
+security-contact: 'https://github.com/EduardoKrausME/moodle-local-kopere_dashboard/security'
 maintainers:
 - github: EduardoKrausME
 tier: 1

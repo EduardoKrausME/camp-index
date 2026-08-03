@@ -1,6 +1,6 @@
 component: local_copy
 source: https://github.com/EduardoKrausME/moodle-local_copy
-security-contact: 'https://github.com/EduardoKrausME/moodle-local_copy/issues'
+security-contact: 'https://github.com/EduardoKrausME/moodle-local_copy/security'
 maintainers:
 - github: EduardoKrausME
 tier: 1

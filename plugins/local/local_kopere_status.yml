@@ -1,6 +1,6 @@
 component: local_kopere_status
 source: https://github.com/EduardoKrausME/moodle-local_kopere_status
-security-contact: 'https://github.com/EduardoKrausME/moodle-local_kopere_status/issues'
+security-contact: 'https://github.com/EduardoKrausME/moodle-local_kopere_status/security'
 maintainers:
 - github: EduardoKrausME
 tier: 1

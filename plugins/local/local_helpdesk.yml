@@ -1,6 +1,6 @@
 component: local_helpdesk
 source: https://github.com/EduardoKrausME/moodle-local_helpdesk
-security-contact: 'https://github.com/EduardoKrausME/moodle-local_helpdesk/issues'
+security-contact: 'https://github.com/EduardoKrausME/moodle-local_helpdesk/security'
 maintainers:
 - github: EduardoKrausME
 tier: 1

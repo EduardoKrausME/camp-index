@@ -1,6 +1,6 @@
 component: local_geniai
 source: https://github.com/EduardoKrausME/moodle-local_geniai
-security-contact: 'https://github.com/EduardoKrausME/moodle-local_geniai/issues'
+security-contact: 'https://github.com/EduardoKrausME/moodle-local_geniai/security'
 maintainers:
 - github: EduardoKrausME
 tier: 1

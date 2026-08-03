@@ -1,6 +1,6 @@
 component: media_ottflix
 source: https://github.com/OttFlix/moodle-media_ottflix
-security-contact: 'https://github.com/OttFlix/moodle-media_ottflix/issues'
+security-contact: 'https://github.com/OttFlix/moodle-media_ottflix/security'
 maintainers:
 - github: OttFlix
 tier: 1

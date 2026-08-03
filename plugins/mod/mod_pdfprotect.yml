@@ -1,6 +1,6 @@
 component: mod_pdfprotect
 source: https://github.com/EduardoKrausME/moodle-mod_pdfprotect
-security-contact: 'https://github.com/EduardoKrausME/moodle-mod_pdfprotect/issues'
+security-contact: 'https://github.com/EduardoKrausME/moodle-mod_pdfprotect/security'
 maintainers:
 - github: EduardoKrausME
 tier: 1

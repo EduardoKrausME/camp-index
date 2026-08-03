@@ -1,6 +1,6 @@
 component: theme_eadflix
 source: https://github.com/EduardoKrausME/moodle-theme_eadflix
-security-contact: 'https://github.com/EduardoKrausME/moodle-theme_eadflix/issues'
+security-contact: 'https://github.com/EduardoKrausME/moodle-theme_eadflix/security'
 maintainers:
 - github: EduardoKrausME
 tier: 1

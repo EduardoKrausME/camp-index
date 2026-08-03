@@ -1,6 +1,6 @@
 component: local_kopere_wpbridge
 source: https://github.com/EduardoKrausME/moodle-local_kopere_wpbridge
-security-contact: 'https://github.com/EduardoKrausME/moodle-local_kopere_wpbridge/issues'
+security-contact: 'https://github.com/EduardoKrausME/moodle-local_kopere_wpbridge/security'
 maintainers:
 - github: EduardoKrausME
 tier: 1

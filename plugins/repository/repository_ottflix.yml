@@ -1,6 +1,6 @@
 component: repository_ottflix
 source: https://github.com/OttFlix/moodle-repository_ottflix
-security-contact: 'https://github.com/OttFlix/moodle-repository_ottflix/issues'
+security-contact: 'https://github.com/OttFlix/moodle-repository_ottflix/security'
 maintainers:
 - github: OttFlix
 tier: 1
