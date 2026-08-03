@@ -43502,16 +43502,18 @@ repos:
     first-seen: '2026-07-23'
     last-checked: '2026-08-03'
   gjb2048/moodle-theme_dennis:
-    outcome: written
-    detail: listed as theme_dennis
+    outcome: opted-out
+    detail: listing removed at maintainer request (camp-index#171)
+    component: theme_dennis
     first-seen: '2026-07-11'
-    last-checked: '2026-07-11'
+    last-checked: '2026-08-03'
   gjb2048/moodle-theme_dennis_m44:
-    outcome: copy
-    detail: shares git history with https://github.com/gjb2048/moodle-theme_dennis,
-      which holds component theme_dennis
+    outcome: opted-out
+    detail: Moodle 4.4 variant repo of gjb2048/moodle-theme_dennis, whose listing
+      was removed at maintainer request (camp-index#171); marked so a future scan
+      cannot re-list the theme from this copy
     first-seen: '2026-07-11'
-    last-checked: '2026-07-24'
+    last-checked: '2026-08-03'
     component: theme_dennis
   gjb2048/moodle-theme_essential:
     outcome: exists
